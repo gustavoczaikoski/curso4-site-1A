@@ -1,4 +1,7 @@
+body {
+    background: rgb(236, 240, 7);
+}
+
 p {
     text-align: center;
-    background: #CCCCCC;
 }
