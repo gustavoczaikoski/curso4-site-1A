@@ -5,3 +5,8 @@ body {
 p {
     text-align: center;
 }
+
+#lema{
+    font-size: 25px;
+    color: #12ebef;
+}
