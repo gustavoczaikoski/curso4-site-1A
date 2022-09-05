@@ -2,6 +2,10 @@ body {
     background: rgb(236, 240, 7);
 }
 
+h1{
+    text-align: center;
+}
+
 p {
     text-align: center;
 }
