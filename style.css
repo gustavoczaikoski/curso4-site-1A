@@ -2,6 +2,10 @@ body {
     background: rgb(236, 240, 7);
 }
 
+#topo {
+    width: 100%;
+}
+
 h1{
     text-align: center;
 }
