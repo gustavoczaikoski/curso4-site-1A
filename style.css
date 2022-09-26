@@ -21,3 +21,8 @@ p {
     font-size: 27px;
     color: red;
 }
+
+.itens {
+    font-style: italic;
+    font-size: 40pt;
+}
