@@ -33,3 +33,12 @@ p {
 h2 {
     text-align: center;
 }
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#imagemb {
+    width: 50%;
+}
