@@ -17,3 +17,11 @@ nav {
 nav li {
     display: inline;
 }
+
+nav a {
+    text-transform: uppercase;
+    color: blue;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
