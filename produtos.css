@@ -11,7 +11,7 @@ h1 {
 }
 
 nav {
-    display: inline;
+    display: inline-block;
 }
 
 nav li {
