@@ -8,6 +8,7 @@ h1 {
 
 #logo {
     width: 250px;
+    margin: 20px;
 }
 
 nav {
@@ -16,7 +17,7 @@ nav {
 
 nav li {
     display: inline;
-    margin-left: 15px;
+    margin-left: 20px;
 }
 
 nav a {
