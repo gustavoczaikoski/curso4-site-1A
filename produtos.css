@@ -38,15 +38,33 @@ nav a {
 }
 
 .produtos {
-    width: 1058px;
+    width: 1136px;
     margin: 0 auto;
+    padding: 50px 0;
 }
 
 .produtos li{
     display: inline-block;
+    text-align: center;
+    margin: 10px;
+    padding: 20px 0;
+    border-color: red;
+    border-width: 3px;
+    border-style: solid;
 }
 
 .item {
     width: 350px;
     height: 260px;
+}
+
+.produtos li h2 {
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.produtos li p {
+    margin-top: 10px;
+    font-size: 20px;
 }
